@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffaaeead-e562-4bbe-a46e-5056a433f5a0" name="Default Changelist" comment="machuang">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="ffaaeead-e562-4bbe-a46e-5056a433f5a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/xiaomage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xiaomage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="sss" />
+        <entry key="$PROJECT_DIR$" value="machuang" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584975839423</updated>
-      <workItem from="1584975860306" duration="1001000" />
+      <workItem from="1584975860306" duration="1202000" />
     </task>
     <task id="LOCAL-00001" summary="提价">
       <created>1584976074495</created>
@@ -84,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584976637737</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="machuang">
+      <created>1584976939121</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584976939121</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,10 +109,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="machuang" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="755" y="199" key="CommitChangelistDialog2" timestamp="1584976899890">
+    <state x="755" y="199" key="CommitChangelistDialog2" timestamp="1584976937335">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="755" y="199" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584976899890" />
+    <state x="755" y="199" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584976937335" />
+    <state x="206" y="78" key="MergeDialog" timestamp="1584977103419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="206" y="78" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584977103419" />
+    <state x="691" y="228" key="MultipleFileMergeDialog" timestamp="1584977106124">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="228" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584977106124" />
     <state x="796" y="255" key="Vcs.Push.Dialog.v2" timestamp="1584976677646">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -123,9 +133,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="921" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584976462425" />
-    <state x="688" y="313" key="git4idea.merge.GitPullDialog" timestamp="1584976770404">
+    <state x="688" y="313" key="git4idea.merge.GitPullDialog" timestamp="1584977084294">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="688" y="313" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584976770404" />
+    <state x="688" y="313" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584977084294" />
   </component>
 </project>
