@@ -3,7 +3,7 @@ public class xiaomage {
 
 
         System.out.println("machuang");
-
+        System.out.println("machuang1");
     }
 
 }
