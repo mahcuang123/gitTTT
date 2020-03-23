@@ -5,7 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.woniu</groupId>
+<<<<<<< HEAD
     <artifactId>xiaomage</artifactId>
+=======
+    <artifactId>mytest</artifactId>
+>>>>>>> fdd2a6b7d9989d5e0a132b646d711e87f0cadf1f
     <version>1.0-SNAPSHOT</version>
 
 
